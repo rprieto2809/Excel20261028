@@ -1,0 +1,722 @@
+﻿Fecha de Venta;ID Producto;Nombre del Producto;Categoría;Cantidad;Precio Unitario (€);Total (€);Coste Unitario (€);Margen (€);Cliente;Edad del Cliente;Región;Método de Pago;Vendedor;Observaciones
+01/11/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Inés Cañete;56;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+02/11/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Óscar Gómez;38;Comunidad de Madrid;PayPal;Martín Ortega;Recogida en tienda (Logroño)
+02/11/2025;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;1.010,00;1.449,95;Celia Romero;31;Galicia;Transferencia bancaria;Martín Ortega;Sin incidencias
+03/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;3;129,99;389,97;80,00;149,97;Begoña Güell;52;Cataluña;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+04/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Nerea Ordóñez;33;Andalucía;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+04/11/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Sonia Bermúdez;22;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Cliente habitual
+04/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Martín Gutiérrez;25;Andalucía;Bizum;Sofía Ruiz;Pago en 2 plazos
+04/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;5;24,50;122,50;11,00;67,50;Martín Gutiérrez;25;País Vasco;Efectivo;Nuria Domínguez;Regalo: incluir tarjeta
+05/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;José Muñoz;34;Cataluña;Tarjeta de débito;Héctor Lázaro;Pago en 2 plazos
+06/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Nerea Ordóñez;33;Andalucía;Efectivo;Nuria Domínguez;Cliente habitual
+06/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Martín Gutiérrez;25;Comunidad de Madrid;PayPal;Héctor Lázaro;Pago en 2 plazos
+07/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Joaquín Ríos;36;Comunidad de Madrid;Transferencia bancaria;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+07/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Begoña Güell;52;País Vasco;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+09/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Nerea Ordóñez;33;Castilla y León;PayPal;Sofía Ruiz;Sin incidencias
+10/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Begoña Güell;52;Comunidad de Madrid;Bizum;Martín Ortega;Envío urgente
+10/11/2025;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Pilar Salcedo;72;Aragón;Tarjeta de crédito;Sofía Ruiz;Devolución solicitada
+10/11/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Begoña Güell;52;País Vasco;Bizum;Nuria Domínguez;Sin incidencias
+10/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Martín Gutiérrez;25;Comunidad de Madrid;Tarjeta de débito;Martín Ortega;Envío urgente
+11/11/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Andrés Velázquez;48;Aragón;Bizum;Martín Ortega;Devolución solicitada
+11/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Mónica Calderón;41;Región de Murcia;Tarjeta de débito;Nuria Domínguez;Descuento del 10 % aplicado
+12/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Begoña Güell;52;País Vasco;Efectivo;Martín Ortega;Envío urgente
+12/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Celia Romero;31;Aragón;Transferencia bancaria;Martín Ortega;Cliente habitual
+12/11/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Pilar Salcedo;72;Andalucía;Efectivo;Martín Ortega;Sin incidencias
+12/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;5;24,50;122,50;11,00;67,50;Begoña Güell;52;Comunidad de Madrid;Efectivo;Martín Ortega;Pago en 2 plazos
+14/11/2025;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Ángela Núñez;61;Aragón;Tarjeta de débito;Héctor Lázaro;Pago en 2 plazos
+14/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Lucía Fernández;19;Aragón;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+14/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;José Muñoz;34;Aragón;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+14/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;3;129,99;389,97;80,00;149,97;Lucía Fernández;19;Región de Murcia;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+15/11/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Óscar Gómez;38;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+15/11/2025;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Raúl Martín;23;Cataluña;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+15/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Inés Cañete;56;Galicia;Tarjeta de crédito;Sofía Ruiz;Regalo: incluir tarjeta
+16/11/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;4;479,00;1.916,00;375,00;416,00;Álvaro Jiménez;44;Andalucía;Transferencia bancaria;Martín Ortega;Cliente habitual
+16/11/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;3;479,00;1.437,00;375,00;312,00;Álvaro Jiménez;44;Comunidad de Madrid;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+16/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;3;79,99;239,97;50,00;89,97;Óscar Gómez;38;Castilla y León;Bizum;Héctor Lázaro;Pago en 2 plazos
+17/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Álvaro Jiménez;44;Castilla y León;Tarjeta de débito;Sofía Ruiz;Devolución solicitada
+18/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;María Peña;27;Aragón;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+19/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;José Muñoz;34;Comunidad de Madrid;Bizum;Sofía Ruiz;Sin incidencias
+19/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Jesús Sáez;29;Andalucía;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+21/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Raúl Martín;23;Región de Murcia;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+21/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Nuria Domínguez;Envío urgente
+22/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Joaquín Ríos;36;Comunidad de Madrid;PayPal;Martín Ortega;Recogida en tienda (Logroño)
+22/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Celia Romero;31;Cataluña;Transferencia bancaria;Sofía Ruiz;Sin incidencias
+22/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Óscar Gómez;38;Cataluña;Efectivo;Nuria Domínguez;Descuento del 10 % aplicado
+23/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Lucía Fernández;19;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+23/11/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Pilar Salcedo;72;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Regalo: incluir tarjeta
+23/11/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+23/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Martín Ortega;Devolución solicitada
+24/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Sonia Bermúdez;22;Andalucía;Tarjeta de débito;Héctor Lázaro;Oferta Black Friday
+24/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;169,91;339,82;128,00;83,82;Nerea Ordóñez;33;Comunidad de Madrid;Efectivo;Sofía Ruiz;Devolución solicitada
+24/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;20,82;20,82;11,00;9,82;Joaquín Ríos;36;Andalucía;Tarjeta de débito;Nuria Domínguez;Oferta Black Friday
+24/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;110,49;220,98;80,00;60,98;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Oferta Black Friday
+24/11/2025;PROD010;Novela «La sombra del viento»;Libros;3;18,61;55,83;13,00;16,83;Álvaro Jiménez;44;Galicia;Efectivo;Nuria Domínguez;Cliente habitual
+24/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;764,99;764,99;700,00;64,99;Pilar Salcedo;72;Andalucía;Tarjeta de crédito;Sofía Ruiz;Envío urgente
+24/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;20,82;41,64;11,00;19,64;Celia Romero;31;Cataluña;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+25/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Íñigo Ibáñez;45;Castilla y León;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+25/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;18,61;37,22;13,00;11,22;Begoña Güell;52;Castilla y León;Bizum;Nuria Domínguez;Devolución solicitada
+25/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;110,49;110,49;80,00;30,49;Pilar Salcedo;72;Cataluña;PayPal;Martín Ortega;Recogida en tienda (Logroño)
+25/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;5;764,99;3.824,95;700,00;324,95;Jesús Sáez;29;Castilla y León;Tarjeta de débito;Nuria Domínguez;Oferta Black Friday
+26/11/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;29,71;59,42;19,50;20,42;Jesús Sáez;29;País Vasco;Tarjeta de débito;Héctor Lázaro;Oferta Black Friday
+26/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Agustín Pérez;67;Andalucía;Transferencia bancaria;Héctor Lázaro;Oferta Black Friday
+26/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;126,65;506,60;98,00;114,60;Agustín Pérez;67;Cataluña;Bizum;Héctor Lázaro;Recogida en tienda (Logroño)
+26/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;169,91;169,91;128,00;41,91;Mónica Calderón;41;Cataluña;Bizum;Héctor Lázaro;Devolución solicitada
+26/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;20,82;41,64;11,00;19,64;Andrés Velázquez;48;Cataluña;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+26/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;169,91;169,91;128,00;41,91;Agustín Pérez;67;Galicia;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+26/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;67,99;67,99;50,00;17,99;Agustín Pérez;67;Galicia;Tarjeta de crédito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+26/11/2025;PROD005;Libro «Cien años de soledad»;Libros;3;13,59;40,77;10,00;10,77;Lucía Fernández;19;Castilla y León;Tarjeta de débito;Nuria Domínguez;Oferta Black Friday
+26/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;13,59;13,59;10,00;3,59;Pilar Salcedo;72;Comunidad de Madrid;PayPal;Héctor Lázaro;Oferta Black Friday
+26/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;169,91;169,91;128,00;41,91;Agustín Pérez;67;Comunidad de Madrid;Bizum;Martín Ortega;Oferta Black Friday
+27/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Andrés Velázquez;48;Cataluña;PayPal;Nuria Domínguez;Envío urgente
+27/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;13,59;13,59;10,00;3,59;Inés Cañete;56;Cataluña;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+27/11/2025;PROD005;Libro «Cien años de soledad»;Libros;5;13,59;67,95;10,00;17,95;Álvaro Jiménez;44;Galicia;Tarjeta de crédito;Martín Ortega;Oferta Black Friday
+27/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;110,49;220,98;80,00;60,98;José Muñoz;34;Galicia;Tarjeta de débito;Martín Ortega;Recogida en tienda (Logroño)
+27/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;13,59;13,59;10,00;3,59;Raúl Martín;23;Andalucía;PayPal;Héctor Lázaro;Oferta Black Friday
+27/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;126,65;506,60;98,00;114,60;Jesús Sáez;29;Andalucía;Tarjeta de crédito;Sofía Ruiz;Oferta Black Friday
+27/11/2025;PROD001;Portátil Dell XPS 13;Electrónica;2;1.104,99;2.209,98;1.010,00;189,98;Álvaro Jiménez;44;Galicia;PayPal;Nuria Domínguez;Oferta Black Friday
+27/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;169,91;169,91;128,00;41,91;Óscar Gómez;38;Andalucía;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+27/11/2025;PROD005;Libro «Cien años de soledad»;Libros;1;13,59;13,59;10,00;3,59;Sonia Bermúdez;22;Andalucía;Tarjeta de crédito;Martín Ortega;Oferta Black Friday
+28/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;5;169,91;849,55;128,00;209,55;Lucía Fernández;19;Comunidad de Madrid;Efectivo;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+28/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;67,99;135,98;50,00;35,98;Pilar Salcedo;72;Andalucía;Transferencia bancaria;Martín Ortega;Regalo: incluir tarjeta
+28/11/2025;PROD005;Libro «Cien años de soledad»;Libros;3;13,59;40,77;10,00;10,77;Inés Cañete;56;Aragón;Tarjeta de débito;Martín Ortega;Regalo: incluir tarjeta
+28/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Jesús Sáez;29;Andalucía;Tarjeta de débito;Sofía Ruiz;Envío urgente
+28/11/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;407,15;407,15;375,00;32,15;Lucía Fernández;19;Cataluña;Bizum;Martín Ortega;Oferta Black Friday
+28/11/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;169,91;169,91;128,00;41,91;Ángela Núñez;61;Comunidad de Madrid;Bizum;Martín Ortega;Oferta Black Friday
+28/11/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;75,65;151,30;47,00;57,30;Andrés Velázquez;48;Región de Murcia;Efectivo;Martín Ortega;Descuento del 10 % aplicado
+29/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;126,65;126,65;98,00;28,65;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Héctor Lázaro;Recogida en tienda (Logroño)
+29/11/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;126,65;506,60;98,00;114,60;Inés Cañete;56;País Vasco;Tarjeta de crédito;Nuria Domínguez;Oferta Black Friday
+29/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;764,99;764,99;700,00;64,99;Pilar Salcedo;72;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Oferta Black Friday
+30/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;20,82;41,64;11,00;19,64;Inés Cañete;56;Comunidad de Madrid;Bizum;Nuria Domínguez;Oferta Black Friday
+30/11/2025;PROD005;Libro «Cien años de soledad»;Libros;2;13,59;27,18;10,00;7,18;Inés Cañete;56;Castilla y León;Tarjeta de débito;Sofía Ruiz;Oferta Black Friday
+30/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;18,61;37,22;13,00;11,22;Nerea Ordóñez;33;País Vasco;Tarjeta de débito;Martín Ortega;Oferta Black Friday
+30/11/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;764,99;764,99;700,00;64,99;Martín Gutiérrez;25;Andalucía;Transferencia bancaria;Martín Ortega;Envío urgente
+30/11/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;110,49;110,49;80,00;30,49;Agustín Pérez;67;Cataluña;Transferencia bancaria;Héctor Lázaro;Oferta Black Friday
+30/11/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;67,99;271,96;50,00;71,96;Celia Romero;31;País Vasco;Bizum;Nuria Domínguez;Oferta Black Friday
+30/11/2025;PROD010;Novela «La sombra del viento»;Libros;2;18,61;37,22;13,00;11,22;María Peña;27;Castilla y León;Tarjeta de débito;Martín Ortega;Oferta Black Friday
+30/11/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;20,82;20,82;11,00;9,82;Óscar Gómez;38;Andalucía;Tarjeta de crédito;Martín Ortega;Oferta Black Friday
+01/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Sonia Bermúdez;22;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+01/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Lucía Fernández;19;Andalucía;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+01/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Andrés Velázquez;48;Cataluña;PayPal;Sofía Ruiz;Sin incidencias
+01/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;Joaquín Ríos;36;Cataluña;Tarjeta de crédito;Martín Ortega;Sin incidencias
+01/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;4;24,50;98,00;11,00;54,00;Raúl Martín;23;Andalucía;Tarjeta de crédito;Nuria Domínguez;Cliente habitual
+01/12/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Íñigo Ibáñez;45;País Vasco;Tarjeta de crédito;Nuria Domínguez;Envío urgente
+02/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;5;899,99;4.499,95;700,00;999,95;Pilar Salcedo;72;Comunidad de Madrid;Bizum;Héctor Lázaro;Sin incidencias
+02/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;3;479,00;1.437,00;375,00;312,00;Mónica Calderón;41;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+02/12/2025;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Begoña Güell;52;Andalucía;Tarjeta de crédito;Sofía Ruiz;Descuento del 10 % aplicado
+04/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Sonia Bermúdez;22;Cataluña;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+04/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;Raúl Martín;23;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Descuento del 10 % aplicado
+04/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Andrés Velázquez;48;Galicia;PayPal;Nuria Domínguez;Cliente habitual
+04/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Sonia Bermúdez;22;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+04/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;5;79,99;399,95;50,00;149,95;Inés Cañete;56;País Vasco;Efectivo;Sofía Ruiz;Devolución solicitada
+05/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Martín Gutiérrez;25;Galicia;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+05/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Andrés Velázquez;48;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+05/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Ángela Núñez;61;Castilla y León;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+05/12/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Martín Gutiérrez;25;Comunidad de Madrid;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+06/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;José Muñoz;34;Andalucía;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+06/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Begoña Güell;52;Castilla y León;Transferencia bancaria;Nuria Domínguez;Regalo: incluir tarjeta
+06/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Lucía Fernández;19;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Cliente habitual
+06/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Joaquín Ríos;36;País Vasco;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+07/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Joaquín Ríos;36;Andalucía;Bizum;Nuria Domínguez;Descuento del 10 % aplicado
+07/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Nerea Ordóñez;33;Andalucía;Transferencia bancaria;Martín Ortega;Recogida en tienda (Logroño)
+07/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Inés Cañete;56;Cataluña;Tarjeta de débito;Martín Ortega;Sin incidencias
+08/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;700,00;799,96;Mónica Calderón;41;Castilla y León;Efectivo;Sofía Ruiz;Sin incidencias
+08/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;5;899,99;4.499,95;700,00;999,95;Begoña Güell;52;Galicia;Bizum;Héctor Lázaro;Sin incidencias
+08/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Andrés Velázquez;48;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Devolución solicitada
+08/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Inés Cañete;56;País Vasco;Tarjeta de crédito;Héctor Lázaro;Devolución solicitada
+09/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;5;199,90;999,50;128,00;359,50;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Regalo: incluir tarjeta
+09/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;5;34,95;174,75;19,50;77,25;Lucía Fernández;19;País Vasco;Bizum;Nuria Domínguez;Devolución solicitada
+10/12/2025;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Begoña Güell;52;Aragón;PayPal;Nuria Domínguez;Sin incidencias
+10/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Joaquín Ríos;36;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+10/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Martín Gutiérrez;25;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+11/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Martín Gutiérrez;25;Castilla y León;Tarjeta de débito;Martín Ortega;Sin incidencias
+11/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Andrés Velázquez;48;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+12/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Begoña Güell;52;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+12/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Pilar Salcedo;72;Aragón;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+12/12/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Celia Romero;31;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Recogida en tienda (Logroño)
+13/12/2025;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Íñigo Ibáñez;45;Cataluña;Efectivo;Sofía Ruiz;Pago en 2 plazos
+13/12/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Ángela Núñez;61;Galicia;Bizum;Martín Ortega;Sin incidencias
+14/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;5;899,99;4.499,95;700,00;999,95;José Muñoz;34;País Vasco;Bizum;Nuria Domínguez;Sin incidencias
+14/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;5;129,99;649,95;80,00;249,95;Martín Gutiérrez;25;Aragón;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+14/12/2025;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Jesús Sáez;29;Aragón;Efectivo;Sofía Ruiz;Descuento del 10 % aplicado
+15/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Jesús Sáez;29;Comunidad de Madrid;Bizum;Nuria Domínguez;Descuento del 10 % aplicado
+15/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Mónica Calderón;41;Cataluña;Efectivo;Héctor Lázaro;Envío urgente
+15/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;María Peña;27;Cataluña;Tarjeta de débito;Martín Ortega;Recogida en tienda (Logroño)
+15/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Begoña Güell;52;Galicia;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+15/12/2025;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Raúl Martín;23;Cataluña;Bizum;Héctor Lázaro;Descuento del 10 % aplicado
+15/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Begoña Güell;52;Aragón;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+16/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Andrés Velázquez;48;Comunidad de Madrid;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+16/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Nerea Ordóñez;33;Andalucía;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+16/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;José Muñoz;34;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Pago en 2 plazos
+17/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Ángela Núñez;61;Andalucía;Tarjeta de débito;Martín Ortega;Descuento del 10 % aplicado
+17/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Íñigo Ibáñez;45;Andalucía;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+17/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Sonia Bermúdez;22;País Vasco;Tarjeta de débito;Nuria Domínguez;Envío urgente
+17/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Mónica Calderón;41;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+17/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Begoña Güell;52;Comunidad de Madrid;Bizum;Sofía Ruiz;Sin incidencias
+17/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Raúl Martín;23;Andalucía;Tarjeta de débito;Nuria Domínguez;Envío urgente
+18/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;3;24,50;73,50;11,00;40,50;Íñigo Ibáñez;45;Cataluña;Tarjeta de débito;Martín Ortega;Sin incidencias
+18/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Andrés Velázquez;48;Comunidad de Madrid;Efectivo;Héctor Lázaro;Pago en 2 plazos
+18/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Andrés Velázquez;48;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+18/12/2025;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Agustín Pérez;67;Andalucía;Tarjeta de crédito;Martín Ortega;Sin incidencias
+19/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Inés Cañete;56;Aragón;Bizum;Martín Ortega;Cliente habitual
+19/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Nerea Ordóñez;33;Comunidad de Madrid;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+20/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;4;479,00;1.916,00;375,00;416,00;Celia Romero;31;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+20/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Lucía Fernández;19;Cataluña;Bizum;Sofía Ruiz;Regalo: incluir tarjeta
+20/12/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Begoña Güell;52;Aragón;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+20/12/2025;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Nerea Ordóñez;33;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+20/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;3;479,00;1.437,00;375,00;312,00;Pilar Salcedo;72;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+20/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Sonia Bermúdez;22;Aragón;Bizum;Sofía Ruiz;Sin incidencias
+21/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;José Muñoz;34;Aragón;Transferencia bancaria;Nuria Domínguez;Devolución solicitada
+21/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;José Muñoz;34;Cataluña;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+21/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+22/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Nerea Ordóñez;33;Comunidad de Madrid;Efectivo;Nuria Domínguez;Sin incidencias
+22/12/2025;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;María Peña;27;País Vasco;Bizum;Martín Ortega;Devolución solicitada
+22/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;149,00;596,00;98,00;204,00;Íñigo Ibáñez;45;Cataluña;Tarjeta de débito;Nuria Domínguez;Descuento del 10 % aplicado
+23/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;5;479,00;2.395,00;375,00;520,00;Lucía Fernández;19;Andalucía;Tarjeta de crédito;Héctor Lázaro;Devolución solicitada
+23/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;3;79,99;239,97;50,00;89,97;Martín Gutiérrez;25;Aragón;Tarjeta de débito;Martín Ortega;Sin incidencias
+23/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Álvaro Jiménez;44;Comunidad de Madrid;Bizum;Nuria Domínguez;Cliente habitual
+23/12/2025;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Begoña Güell;52;Cataluña;Tarjeta de débito;Héctor Lázaro;Devolución solicitada
+23/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;María Peña;27;Castilla y León;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+24/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Ángela Núñez;61;Región de Murcia;Tarjeta de débito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+24/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;María Peña;27;Andalucía;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+24/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;José Muñoz;34;Región de Murcia;Transferencia bancaria;Sofía Ruiz;Sin incidencias
+24/12/2025;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Celia Romero;31;Comunidad de Madrid;PayPal;Sofía Ruiz;Sin incidencias
+25/12/2025;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Lucía Fernández;19;Galicia;Tarjeta de crédito;Sofía Ruiz;Pago en 2 plazos
+25/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Álvaro Jiménez;44;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+26/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Íñigo Ibáñez;45;Cataluña;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+27/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;3;479,00;1.437,00;375,00;312,00;Álvaro Jiménez;44;Andalucía;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+27/12/2025;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Pilar Salcedo;72;Cataluña;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+27/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Raúl Martín;23;Castilla y León;Bizum;Martín Ortega;Sin incidencias
+27/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Cliente habitual
+27/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Óscar Gómez;38;Andalucía;Tarjeta de crédito;Martín Ortega;Cliente habitual
+28/12/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Agustín Pérez;67;Comunidad de Madrid;Efectivo;Sofía Ruiz;Pago en 2 plazos
+28/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Inés Cañete;56;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+28/12/2025;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;María Peña;27;Cataluña;PayPal;Héctor Lázaro;Sin incidencias
+29/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Nerea Ordóñez;33;Andalucía;Tarjeta de crédito;Martín Ortega;Sin incidencias
+29/12/2025;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Óscar Gómez;38;Aragón;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+30/12/2025;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Martín Gutiérrez;25;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+30/12/2025;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Lucía Fernández;19;Andalucía;PayPal;Héctor Lázaro;Sin incidencias
+30/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;José Muñoz;34;Cataluña;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+30/12/2025;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Álvaro Jiménez;44;Andalucía;Bizum;Héctor Lázaro;Sin incidencias
+30/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Ángela Núñez;61;Andalucía;Tarjeta de crédito;Martín Ortega;Pago en 2 plazos
+31/12/2025;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Lucía Fernández;19;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Recogida en tienda (Logroño)
+31/12/2025;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Sonia Bermúdez;22;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+31/12/2025;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Íñigo Ibáñez;45;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Cliente habitual
+31/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Inés Cañete;56;Región de Murcia;Tarjeta de débito;Martín Ortega;Sin incidencias
+31/12/2025;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Agustín Pérez;67;Comunidad de Madrid;PayPal;Nuria Domínguez;Sin incidencias
+31/12/2025;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Celia Romero;31;Galicia;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+01/01/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Inés Cañete;56;Galicia;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+01/01/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Ángela Núñez;61;Región de Murcia;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+02/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Lucía Fernández;19;Aragón;Tarjeta de débito;Martín Ortega;Sin incidencias
+02/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Pilar Salcedo;72;Galicia;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+02/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Jesús Sáez;29;Galicia;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+03/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;María Peña;27;Aragón;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+03/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Raúl Martín;23;Andalucía;Tarjeta de crédito;Héctor Lázaro;Pago en 2 plazos
+05/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+05/01/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Pilar Salcedo;72;Comunidad de Madrid;Transferencia bancaria;Héctor Lázaro;Sin incidencias
+06/01/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;María Peña;27;Comunidad de Madrid;Bizum;Nuria Domínguez;Regalo: incluir tarjeta
+06/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Inés Cañete;56;Galicia;Bizum;Héctor Lázaro;Sin incidencias
+08/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;5;24,50;122,50;11,00;67,50;Begoña Güell;52;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+08/01/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Martín Gutiérrez;25;Cataluña;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+09/01/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Begoña Güell;52;Comunidad de Madrid;PayPal;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+10/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Sonia Bermúdez;22;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Cliente habitual
+10/01/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;Andrés Velázquez;48;Andalucía;Tarjeta de débito;Martín Ortega;Descuento del 10 % aplicado
+10/01/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Jesús Sáez;29;País Vasco;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+11/01/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;José Muñoz;34;Cataluña;Bizum;Martín Ortega;Pago en 2 plazos
+12/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Pilar Salcedo;72;Cataluña;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+12/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Celia Romero;31;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Pago en 2 plazos
+13/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Martín Gutiérrez;25;Aragón;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+13/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Begoña Güell;52;Región de Murcia;PayPal;Héctor Lázaro;Sin incidencias
+13/01/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;4;479,00;1.916,00;375,00;416,00;Celia Romero;31;Cataluña;Efectivo;Héctor Lázaro;Devolución solicitada
+13/01/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Celia Romero;31;Galicia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+13/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Raúl Martín;23;Aragón;Bizum;Nuria Domínguez;Sin incidencias
+14/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Sonia Bermúdez;22;Andalucía;Tarjeta de crédito;Héctor Lázaro;Recogida en tienda (Logroño)
+14/01/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Álvaro Jiménez;44;Andalucía;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+14/01/2026;PROD001;Portátil Dell XPS 13;Electrónica;4;1.299,99;5.199,96;1.010,00;1.159,96;Inés Cañete;56;Comunidad de Madrid;Efectivo;Nuria Domínguez;Pago en 2 plazos
+14/01/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Agustín Pérez;67;Comunidad de Madrid;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+15/01/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Pilar Salcedo;72;Comunidad de Madrid;PayPal;Héctor Lázaro;Sin incidencias
+16/01/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Jesús Sáez;29;Cataluña;Bizum;Héctor Lázaro;Sin incidencias
+17/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Andrés Velázquez;48;Cataluña;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+17/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Ángela Núñez;61;Comunidad de Madrid;PayPal;Héctor Lázaro;Envío urgente
+18/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Óscar Gómez;38;Andalucía;Bizum;Héctor Lázaro;Sin incidencias
+20/01/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Nerea Ordóñez;33;Comunidad de Madrid;Bizum;Nuria Domínguez;Sin incidencias
+20/01/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Sonia Bermúdez;22;Andalucía;PayPal;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+21/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Jesús Sáez;29;Cataluña;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+21/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Íñigo Ibáñez;45;Región de Murcia;PayPal;Nuria Domínguez;Descuento del 10 % aplicado
+21/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Mónica Calderón;41;Andalucía;Tarjeta de débito;Sofía Ruiz;Envío urgente
+22/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Joaquín Ríos;36;Cataluña;Tarjeta de débito;Héctor Lázaro;Regalo: incluir tarjeta
+22/01/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Inés Cañete;56;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+23/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Joaquín Ríos;36;Galicia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+23/01/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Nerea Ordóñez;33;Andalucía;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+24/01/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Martín Gutiérrez;25;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Envío urgente
+24/01/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Nerea Ordóñez;33;Comunidad de Madrid;Bizum;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+25/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Nerea Ordóñez;33;País Vasco;Bizum;Martín Ortega;Cliente habitual
+25/01/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Pilar Salcedo;72;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+27/01/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Ángela Núñez;61;Castilla y León;Bizum;Héctor Lázaro;Recogida en tienda (Logroño)
+28/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Martín Gutiérrez;25;Castilla y León;PayPal;Héctor Lázaro;Descuento del 10 % aplicado
+29/01/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Íñigo Ibáñez;45;Castilla y León;Efectivo;Nuria Domínguez;Sin incidencias
+29/01/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Lucía Fernández;19;Región de Murcia;Tarjeta de crédito;Héctor Lázaro;Recogida en tienda (Logroño)
+30/01/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Agustín Pérez;67;Galicia;Bizum;Nuria Domínguez;Sin incidencias
+30/01/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Inés Cañete;56;Andalucía;Efectivo;Héctor Lázaro;Recogida en tienda (Logroño)
+31/01/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Álvaro Jiménez;44;Castilla y León;Efectivo;Martín Ortega;Sin incidencias
+31/01/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Begoña Güell;52;Comunidad de Madrid;PayPal;Nuria Domínguez;Sin incidencias
+01/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Pilar Salcedo;72;Galicia;Tarjeta de débito;Martín Ortega;Regalo: incluir tarjeta
+02/02/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Celia Romero;31;Castilla y León;Tarjeta de débito;Héctor Lázaro;Regalo: incluir tarjeta
+03/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Óscar Gómez;38;Región de Murcia;Tarjeta de crédito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+03/02/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Pilar Salcedo;72;Cataluña;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+03/02/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Raúl Martín;23;Comunidad de Madrid;Bizum;Martín Ortega;Sin incidencias
+04/02/2026;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Lucía Fernández;19;Andalucía;Efectivo;Sofía Ruiz;Sin incidencias
+05/02/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Martín Gutiérrez;25;Comunidad de Madrid;Efectivo;Martín Ortega;Sin incidencias
+05/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;5;149,00;745,00;98,00;255,00;Agustín Pérez;67;Comunidad de Madrid;PayPal;Nuria Domínguez;Devolución solicitada
+05/02/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Agustín Pérez;67;Andalucía;PayPal;Héctor Lázaro;Pago en 2 plazos
+05/02/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Lucía Fernández;19;Castilla y León;Bizum;Nuria Domínguez;Devolución solicitada
+05/02/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Jesús Sáez;29;Cataluña;PayPal;Héctor Lázaro;Sin incidencias
+05/02/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Jesús Sáez;29;Cataluña;Bizum;Nuria Domínguez;Recogida en tienda (Logroño)
+07/02/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Jesús Sáez;29;Cataluña;Tarjeta de débito;Martín Ortega;Sin incidencias
+07/02/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;1.010,00;1.449,95;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Sin incidencias
+07/02/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Nerea Ordóñez;33;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+10/02/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Inés Cañete;56;Andalucía;Tarjeta de crédito;Martín Ortega;Envío urgente
+10/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Nerea Ordóñez;33;País Vasco;PayPal;Nuria Domínguez;Sin incidencias
+11/02/2026;PROD005;Libro «Cien años de soledad»;Libros;5;15,99;79,95;10,00;29,95;Álvaro Jiménez;44;Andalucía;PayPal;Sofía Ruiz;Sin incidencias
+11/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;María Peña;27;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Devolución solicitada
+11/02/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Mónica Calderón;41;Cataluña;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+13/02/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Mónica Calderón;41;Andalucía;PayPal;Martín Ortega;Recogida en tienda (Logroño)
+13/02/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Andrés Velázquez;48;Cataluña;Bizum;Nuria Domínguez;Sin incidencias
+13/02/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;María Peña;27;Aragón;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+13/02/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Inés Cañete;56;Andalucía;Tarjeta de débito;Martín Ortega;Regalo: incluir tarjeta
+15/02/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Jesús Sáez;29;Galicia;Tarjeta de débito;Martín Ortega;Pago en 2 plazos
+15/02/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Inés Cañete;56;Región de Murcia;Bizum;Héctor Lázaro;Sin incidencias
+15/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Lucía Fernández;19;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+15/02/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;María Peña;27;Galicia;PayPal;Martín Ortega;Sin incidencias
+15/02/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Agustín Pérez;67;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+16/02/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Martín Gutiérrez;25;Castilla y León;Bizum;Sofía Ruiz;Envío urgente
+16/02/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Raúl Martín;23;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+17/02/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Sonia Bermúdez;22;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Devolución solicitada
+17/02/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Pilar Salcedo;72;Cataluña;Bizum;Sofía Ruiz;Sin incidencias
+18/02/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;79,99;319,96;50,00;119,96;Sonia Bermúdez;22;Aragón;Bizum;Sofía Ruiz;Sin incidencias
+19/02/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Sonia Bermúdez;22;Comunidad de Madrid;PayPal;Martín Ortega;Sin incidencias
+20/02/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Celia Romero;31;Cataluña;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+21/02/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Óscar Gómez;38;Andalucía;Bizum;Sofía Ruiz;Sin incidencias
+22/02/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Inés Cañete;56;Cataluña;Transferencia bancaria;Sofía Ruiz;Sin incidencias
+22/02/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Martín Gutiérrez;25;Comunidad de Madrid;Bizum;Héctor Lázaro;Cliente habitual
+22/02/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;José Muñoz;34;Castilla y León;Tarjeta de crédito;Sofía Ruiz;Cliente habitual
+23/02/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Íñigo Ibáñez;45;Andalucía;PayPal;Héctor Lázaro;Sin incidencias
+23/02/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Andrés Velázquez;48;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+23/02/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;3;129,99;389,97;80,00;149,97;Álvaro Jiménez;44;Andalucía;Bizum;Martín Ortega;Sin incidencias
+25/02/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Jesús Sáez;29;Cataluña;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+25/02/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Andrés Velázquez;48;Andalucía;Tarjeta de crédito;Martín Ortega;Sin incidencias
+26/02/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Óscar Gómez;38;País Vasco;PayPal;Sofía Ruiz;Sin incidencias
+26/02/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Lucía Fernández;19;Andalucía;Bizum;Martín Ortega;Descuento del 10 % aplicado
+27/02/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Óscar Gómez;38;Cataluña;Tarjeta de crédito;Martín Ortega;Sin incidencias
+01/03/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Begoña Güell;52;Andalucía;Tarjeta de débito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+01/03/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Óscar Gómez;38;Andalucía;PayPal;Martín Ortega;Sin incidencias
+02/03/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Ángela Núñez;61;Cataluña;Tarjeta de débito;Martín Ortega;Cliente habitual
+02/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Sonia Bermúdez;22;Comunidad de Madrid;PayPal;Héctor Lázaro;Recogida en tienda (Logroño)
+02/03/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Celia Romero;31;Andalucía;PayPal;Héctor Lázaro;Recogida en tienda (Logroño)
+02/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Lucía Fernández;19;Galicia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+02/03/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;4;479,00;1.916,00;375,00;416,00;Íñigo Ibáñez;45;Galicia;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+03/03/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Begoña Güell;52;País Vasco;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+04/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Cliente habitual
+06/03/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Andrés Velázquez;48;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+07/03/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Andrés Velázquez;48;Región de Murcia;Tarjeta de crédito;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+07/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;3;1.299,99;3.899,97;1.010,00;869,97;Nerea Ordóñez;33;Galicia;PayPal;Sofía Ruiz;Sin incidencias
+09/03/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Íñigo Ibáñez;45;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+09/03/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Pilar Salcedo;72;Andalucía;Bizum;Héctor Lázaro;Sin incidencias
+09/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Inés Cañete;56;Aragón;Bizum;Sofía Ruiz;Descuento del 10 % aplicado
+09/03/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Lucía Fernández;19;Aragón;PayPal;Nuria Domínguez;Cliente habitual
+10/03/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;José Muñoz;34;Castilla y León;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+10/03/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Agustín Pérez;67;Andalucía;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+11/03/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Celia Romero;31;Comunidad de Madrid;Bizum;Sofía Ruiz;Sin incidencias
+11/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;1.010,00;1.449,95;Sonia Bermúdez;22;Comunidad de Madrid;Efectivo;Héctor Lázaro;Recogida en tienda (Logroño)
+11/03/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Joaquín Ríos;36;Comunidad de Madrid;Bizum;Nuria Domínguez;Sin incidencias
+13/03/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;José Muñoz;34;Galicia;PayPal;Martín Ortega;Devolución solicitada
+14/03/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Mónica Calderón;41;País Vasco;Bizum;Martín Ortega;Sin incidencias
+16/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;3;1.299,99;3.899,97;1.010,00;869,97;Martín Gutiérrez;25;Comunidad de Madrid;Bizum;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+16/03/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Joaquín Ríos;36;Andalucía;Bizum;Sofía Ruiz;Sin incidencias
+17/03/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Mónica Calderón;41;Aragón;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+18/03/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Nerea Ordóñez;33;Comunidad de Madrid;PayPal;Nuria Domínguez;Sin incidencias
+18/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Agustín Pérez;67;Andalucía;Tarjeta de crédito;Nuria Domínguez;Devolución solicitada
+18/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Agustín Pérez;67;Región de Murcia;Tarjeta de débito;Martín Ortega;Sin incidencias
+19/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Íñigo Ibáñez;45;Castilla y León;Efectivo;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+19/03/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;José Muñoz;34;Comunidad de Madrid;PayPal;Héctor Lázaro;Sin incidencias
+19/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;4;199,90;799,60;128,00;287,60;Martín Gutiérrez;25;Región de Murcia;PayPal;Martín Ortega;Cliente habitual
+21/03/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;José Muñoz;34;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Recogida en tienda (Logroño)
+21/03/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Óscar Gómez;38;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+22/03/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Álvaro Jiménez;44;Castilla y León;PayPal;Martín Ortega;Cliente habitual
+22/03/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;María Peña;27;Andalucía;PayPal;Martín Ortega;Sin incidencias
+23/03/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;José Muñoz;34;Región de Murcia;Bizum;Sofía Ruiz;Recogida en tienda (Logroño)
+24/03/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Pilar Salcedo;72;Galicia;Bizum;Héctor Lázaro;Sin incidencias
+24/03/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Joaquín Ríos;36;Andalucía;Efectivo;Nuria Domínguez;Regalo: incluir tarjeta
+25/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Ángela Núñez;61;Galicia;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+25/03/2026;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Pilar Salcedo;72;Comunidad de Madrid;PayPal;Martín Ortega;Recogida en tienda (Logroño)
+25/03/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Álvaro Jiménez;44;Comunidad de Madrid;Efectivo;Nuria Domínguez;Recogida en tienda (Logroño)
+25/03/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Joaquín Ríos;36;Galicia;Tarjeta de crédito;Martín Ortega;Sin incidencias
+26/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Álvaro Jiménez;44;Castilla y León;Bizum;Martín Ortega;Recogida en tienda (Logroño)
+26/03/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;700,00;799,96;Óscar Gómez;38;Cataluña;PayPal;Sofía Ruiz;Devolución solicitada
+27/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Lucía Fernández;19;Comunidad de Madrid;Tarjeta de débito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+29/03/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Ángela Núñez;61;Cataluña;Tarjeta de débito;Héctor Lázaro;Pago en 2 plazos
+30/03/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Lucía Fernández;19;Andalucía;PayPal;Héctor Lázaro;Devolución solicitada
+30/03/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Álvaro Jiménez;44;País Vasco;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+30/03/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Begoña Güell;52;Cataluña;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+31/03/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Ángela Núñez;61;Cataluña;Tarjeta de crédito;Héctor Lázaro;Regalo: incluir tarjeta
+31/03/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Óscar Gómez;38;Galicia;Bizum;Nuria Domínguez;Recogida en tienda (Logroño)
+01/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Begoña Güell;52;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+01/04/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Celia Romero;31;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+01/04/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Inés Cañete;56;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Envío urgente
+01/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Agustín Pérez;67;Andalucía;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+01/04/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Pilar Salcedo;72;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+02/04/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Pilar Salcedo;72;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+02/04/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;María Peña;27;Castilla y León;Tarjeta de débito;Martín Ortega;Sin incidencias
+03/04/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;5;89,00;445,00;47,00;210,00;Íñigo Ibáñez;45;Comunidad de Madrid;Bizum;Sofía Ruiz;Envío urgente
+03/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;María Peña;27;Cataluña;Tarjeta de débito;Nuria Domínguez;Devolución solicitada
+04/04/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Jesús Sáez;29;Comunidad de Madrid;PayPal;Nuria Domínguez;Regalo: incluir tarjeta
+05/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Mónica Calderón;41;País Vasco;Tarjeta de crédito;Martín Ortega;Regalo: incluir tarjeta
+05/04/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Begoña Güell;52;Comunidad de Madrid;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+05/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Agustín Pérez;67;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+08/04/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;79,99;319,96;50,00;119,96;Sonia Bermúdez;22;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Devolución solicitada
+08/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Begoña Güell;52;Castilla y León;PayPal;Martín Ortega;Envío urgente
+09/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Lucía Fernández;19;Región de Murcia;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+09/04/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Álvaro Jiménez;44;Andalucía;PayPal;Nuria Domínguez;Sin incidencias
+10/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Mónica Calderón;41;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+10/04/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Inés Cañete;56;Comunidad de Madrid;Transferencia bancaria;Héctor Lázaro;Devolución solicitada
+10/04/2026;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Jesús Sáez;29;Cataluña;Bizum;Martín Ortega;Pago en 2 plazos
+11/04/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;4;129,99;519,96;80,00;199,96;Martín Gutiérrez;25;Andalucía;Tarjeta de débito;Martín Ortega;Devolución solicitada
+11/04/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Íñigo Ibáñez;45;Aragón;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+11/04/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+12/04/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Íñigo Ibáñez;45;Andalucía;Efectivo;Sofía Ruiz;Sin incidencias
+14/04/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;79,99;319,96;50,00;119,96;Begoña Güell;52;Cataluña;Tarjeta de débito;Martín Ortega;Sin incidencias
+14/04/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;José Muñoz;34;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Devolución solicitada
+16/04/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Pilar Salcedo;72;País Vasco;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+17/04/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Óscar Gómez;38;Andalucía;Tarjeta de débito;Héctor Lázaro;Regalo: incluir tarjeta
+18/04/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Inés Cañete;56;Comunidad de Madrid;Bizum;Martín Ortega;Devolución solicitada
+19/04/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;3;79,99;239,97;50,00;89,97;Nerea Ordóñez;33;Castilla y León;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+19/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Pilar Salcedo;72;Aragón;Bizum;Héctor Lázaro;Regalo: incluir tarjeta
+19/04/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Raúl Martín;23;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Regalo: incluir tarjeta
+21/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Lucía Fernández;19;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+22/04/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Joaquín Ríos;36;Región de Murcia;Tarjeta de débito;Nuria Domínguez;Pago en 2 plazos
+22/04/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;José Muñoz;34;Cataluña;Bizum;Martín Ortega;Sin incidencias
+23/04/2026;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Jesús Sáez;29;Galicia;Tarjeta de crédito;Sofía Ruiz;Pago en 2 plazos
+23/04/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;María Peña;27;Castilla y León;Tarjeta de débito;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+24/04/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Joaquín Ríos;36;País Vasco;Bizum;Nuria Domínguez;Cliente habitual
+24/04/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Inés Cañete;56;Cataluña;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+25/04/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Agustín Pérez;67;Región de Murcia;PayPal;Héctor Lázaro;Regalo: incluir tarjeta
+25/04/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;María Peña;27;Aragón;PayPal;Héctor Lázaro;Sin incidencias
+25/04/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;María Peña;27;Castilla y León;Tarjeta de débito;Nuria Domínguez;Pago en 2 plazos
+25/04/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Íñigo Ibáñez;45;Cataluña;Bizum;Nuria Domínguez;Sin incidencias
+26/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Raúl Martín;23;Galicia;Efectivo;Martín Ortega;Devolución solicitada
+27/04/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Lucía Fernández;19;Cataluña;Tarjeta de crédito;Sofía Ruiz;Regalo: incluir tarjeta
+28/04/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Celia Romero;31;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Devolución solicitada
+28/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Raúl Martín;23;Aragón;Bizum;Héctor Lázaro;Sin incidencias
+29/04/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Begoña Güell;52;Cataluña;Tarjeta de débito;Martín Ortega;Envío urgente
+30/04/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Andrés Velázquez;48;Andalucía;Efectivo;Sofía Ruiz;Sin incidencias
+30/04/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;José Muñoz;34;Galicia;Tarjeta de crédito;Héctor Lázaro;Recogida en tienda (Logroño)
+01/05/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Raúl Martín;23;Comunidad de Madrid;Bizum;Martín Ortega;Sin incidencias
+02/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Inés Cañete;56;País Vasco;Efectivo;Héctor Lázaro;Devolución solicitada
+02/05/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Agustín Pérez;67;Región de Murcia;Tarjeta de crédito;Martín Ortega;Sin incidencias
+02/05/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Álvaro Jiménez;44;Andalucía;Bizum;Nuria Domínguez;Sin incidencias
+02/05/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Íñigo Ibáñez;45;Cataluña;PayPal;Nuria Domínguez;Cliente habitual
+02/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+03/05/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Agustín Pérez;67;Cataluña;Tarjeta de débito;Martín Ortega;Envío urgente
+03/05/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;4;34,95;139,80;19,50;61,80;José Muñoz;34;Cataluña;Transferencia bancaria;Héctor Lázaro;Descuento del 10 % aplicado
+04/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Pilar Salcedo;72;Región de Murcia;Bizum;Nuria Domínguez;Descuento del 10 % aplicado
+04/05/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Begoña Güell;52;País Vasco;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+04/05/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Sonia Bermúdez;22;Comunidad de Madrid;Bizum;Héctor Lázaro;Cliente habitual
+04/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Martín Gutiérrez;25;Aragón;Bizum;Héctor Lázaro;Sin incidencias
+04/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Celia Romero;31;Cataluña;PayPal;Héctor Lázaro;Sin incidencias
+06/05/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Begoña Güell;52;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Devolución solicitada
+06/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Óscar Gómez;38;País Vasco;Bizum;Nuria Domínguez;Devolución solicitada
+07/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Jesús Sáez;29;Castilla y León;Tarjeta de crédito;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+07/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+07/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;3;24,50;73,50;11,00;40,50;Mónica Calderón;41;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+08/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Álvaro Jiménez;44;País Vasco;Efectivo;Sofía Ruiz;Sin incidencias
+08/05/2026;PROD010;Novela «La sombra del viento»;Libros;5;21,90;109,50;13,00;44,50;Joaquín Ríos;36;Aragón;Bizum;Héctor Lázaro;Sin incidencias
+08/05/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Jesús Sáez;29;Andalucía;PayPal;Sofía Ruiz;Sin incidencias
+08/05/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Celia Romero;31;Galicia;PayPal;Nuria Domínguez;Descuento del 10 % aplicado
+09/05/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Sonia Bermúdez;22;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+09/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Begoña Güell;52;Galicia;PayPal;Héctor Lázaro;Envío urgente
+09/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Nerea Ordóñez;33;Región de Murcia;Bizum;Nuria Domínguez;Sin incidencias
+09/05/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Álvaro Jiménez;44;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+09/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Celia Romero;31;Cataluña;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+11/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;María Peña;27;Cataluña;Tarjeta de crédito;Martín Ortega;Cliente habitual
+16/05/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Celia Romero;31;Galicia;Tarjeta de débito;Martín Ortega;Sin incidencias
+16/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Andrés Velázquez;48;Andalucía;Tarjeta de débito;Nuria Domínguez;Envío urgente
+16/05/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;José Muñoz;34;Galicia;Efectivo;Nuria Domínguez;Sin incidencias
+16/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Andrés Velázquez;48;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+17/05/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Ángela Núñez;61;Cataluña;Efectivo;Héctor Lázaro;Regalo: incluir tarjeta
+17/05/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Álvaro Jiménez;44;Aragón;Tarjeta de crédito;Martín Ortega;Devolución solicitada
+18/05/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Inés Cañete;56;País Vasco;Efectivo;Sofía Ruiz;Pago en 2 plazos
+19/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Óscar Gómez;38;Castilla y León;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+20/05/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Martín Gutiérrez;25;Región de Murcia;Efectivo;Sofía Ruiz;Regalo: incluir tarjeta
+20/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Mónica Calderón;41;Galicia;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+20/05/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Joaquín Ríos;36;Castilla y León;Tarjeta de débito;Martín Ortega;Cliente habitual
+21/05/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;5;34,95;174,75;19,50;77,25;Andrés Velázquez;48;Galicia;Tarjeta de débito;Nuria Domínguez;Descuento del 10 % aplicado
+22/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Mónica Calderón;41;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+22/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Ángela Núñez;61;Cataluña;Tarjeta de crédito;Sofía Ruiz;Cliente habitual
+23/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Celia Romero;31;País Vasco;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+24/05/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Agustín Pérez;67;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+25/05/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Andrés Velázquez;48;Aragón;Transferencia bancaria;Martín Ortega;Devolución solicitada
+25/05/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Jesús Sáez;29;Andalucía;Bizum;Nuria Domínguez;Sin incidencias
+26/05/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Celia Romero;31;Cataluña;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+27/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Joaquín Ríos;36;Región de Murcia;Efectivo;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+28/05/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;4;199,90;799,60;128,00;287,60;Sonia Bermúdez;22;Comunidad de Madrid;Transferencia bancaria;Héctor Lázaro;Regalo: incluir tarjeta
+28/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Celia Romero;31;Región de Murcia;PayPal;Héctor Lázaro;Sin incidencias
+28/05/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;4;24,50;98,00;11,00;54,00;María Peña;27;Comunidad de Madrid;Bizum;Sofía Ruiz;Recogida en tienda (Logroño)
+29/05/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Sonia Bermúdez;22;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+30/05/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Andrés Velázquez;48;País Vasco;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+30/05/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Ángela Núñez;61;Aragón;Tarjeta de crédito;Martín Ortega;Sin incidencias
+02/06/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;79,99;319,96;50,00;119,96;Mónica Calderón;41;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+02/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Nerea Ordóñez;33;Cataluña;PayPal;Martín Ortega;Descuento del 10 % aplicado
+03/06/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Pilar Salcedo;72;Andalucía;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+05/06/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Sonia Bermúdez;22;Aragón;PayPal;Nuria Domínguez;Sin incidencias
+05/06/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Inés Cañete;56;Aragón;Tarjeta de crédito;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+05/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Raúl Martín;23;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Envío urgente
+06/06/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Álvaro Jiménez;44;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+06/06/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Álvaro Jiménez;44;Comunidad de Madrid;Bizum;Sofía Ruiz;Cliente habitual
+07/06/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Lucía Fernández;19;Aragón;Bizum;Martín Ortega;Sin incidencias
+07/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Nerea Ordóñez;33;País Vasco;Efectivo;Sofía Ruiz;Recogida en tienda (Logroño)
+08/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Mónica Calderón;41;Comunidad de Madrid;Transferencia bancaria;Nuria Domínguez;Recogida en tienda (Logroño)
+08/06/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Inés Cañete;56;Andalucía;Transferencia bancaria;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+08/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Martín Gutiérrez;25;Galicia;Bizum;Sofía Ruiz;Sin incidencias
+09/06/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Ángela Núñez;61;Comunidad de Madrid;Bizum;Martín Ortega;Cliente habitual
+09/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Álvaro Jiménez;44;Castilla y León;Tarjeta de débito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+09/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Celia Romero;31;Andalucía;Bizum;Nuria Domínguez;Cliente habitual
+09/06/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Celia Romero;31;Comunidad de Madrid;Bizum;Sofía Ruiz;Descuento del 10 % aplicado
+10/06/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Óscar Gómez;38;Andalucía;Efectivo;Sofía Ruiz;Sin incidencias
+10/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;5;24,50;122,50;11,00;67,50;Raúl Martín;23;Región de Murcia;Bizum;Martín Ortega;Recogida en tienda (Logroño)
+10/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Begoña Güell;52;Comunidad de Madrid;Tarjeta de débito;Martín Ortega;Pago en 2 plazos
+10/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;3;24,50;73,50;11,00;40,50;Pilar Salcedo;72;País Vasco;PayPal;Héctor Lázaro;Sin incidencias
+11/06/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Mónica Calderón;41;País Vasco;PayPal;Martín Ortega;Sin incidencias
+11/06/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Inés Cañete;56;Andalucía;Efectivo;Martín Ortega;Envío urgente
+12/06/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Óscar Gómez;38;Comunidad de Madrid;Bizum;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+12/06/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;José Muñoz;34;Galicia;Bizum;Martín Ortega;Descuento del 10 % aplicado
+12/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Celia Romero;31;Cataluña;Tarjeta de crédito;Héctor Lázaro;Envío urgente
+13/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Celia Romero;31;Cataluña;Tarjeta de crédito;Nuria Domínguez;Descuento del 10 % aplicado
+15/06/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;3;79,99;239,97;50,00;89,97;Raúl Martín;23;Andalucía;Efectivo;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+15/06/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Nerea Ordóñez;33;Andalucía;Tarjeta de crédito;Martín Ortega;Cliente habitual
+16/06/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Agustín Pérez;67;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+17/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Óscar Gómez;38;Cataluña;Transferencia bancaria;Sofía Ruiz;Sin incidencias
+17/06/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;4;34,95;139,80;19,50;61,80;María Peña;27;Andalucía;Tarjeta de débito;Héctor Lázaro;Cliente habitual
+17/06/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;5;129,99;649,95;80,00;249,95;Mónica Calderón;41;Región de Murcia;Tarjeta de débito;Martín Ortega;Sin incidencias
+17/06/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Joaquín Ríos;36;Andalucía;Bizum;Héctor Lázaro;Sin incidencias
+18/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Celia Romero;31;Andalucía;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+20/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Pilar Salcedo;72;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+21/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;4;24,50;98,00;11,00;54,00;Lucía Fernández;19;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Pago en 2 plazos
+21/06/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Ángela Núñez;61;Andalucía;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+21/06/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Andrés Velázquez;48;Andalucía;Tarjeta de crédito;Martín Ortega;Sin incidencias
+21/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Andrés Velázquez;48;Castilla y León;Bizum;Héctor Lázaro;Sin incidencias
+22/06/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Álvaro Jiménez;44;Aragón;Bizum;Héctor Lázaro;Sin incidencias
+22/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Jesús Sáez;29;Comunidad de Madrid;Bizum;Héctor Lázaro;Cliente habitual
+23/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Íñigo Ibáñez;45;Cataluña;Tarjeta de débito;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+23/06/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Celia Romero;31;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+23/06/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;María Peña;27;Castilla y León;Efectivo;Martín Ortega;Sin incidencias
+24/06/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;Pilar Salcedo;72;País Vasco;PayPal;Héctor Lázaro;Sin incidencias
+25/06/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;3;129,99;389,97;80,00;149,97;Jesús Sáez;29;Castilla y León;Tarjeta de crédito;Nuria Domínguez;Cliente habitual
+26/06/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Álvaro Jiménez;44;Castilla y León;Bizum;Martín Ortega;Descuento del 10 % aplicado
+27/06/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Óscar Gómez;38;Andalucía;Bizum;Martín Ortega;Devolución solicitada
+27/06/2026;PROD001;Portátil Dell XPS 13;Electrónica;3;1.299,99;3.899,97;1.010,00;869,97;Martín Gutiérrez;25;Cataluña;Efectivo;Héctor Lázaro;Descuento del 10 % aplicado
+28/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;700,00;799,96;Mónica Calderón;41;Galicia;Bizum;Martín Ortega;Recogida en tienda (Logroño)
+28/06/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Lucía Fernández;19;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Devolución solicitada
+28/06/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;María Peña;27;Comunidad de Madrid;Efectivo;Héctor Lázaro;Sin incidencias
+28/06/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;5;24,50;122,50;11,00;67,50;Mónica Calderón;41;Comunidad de Madrid;Bizum;Héctor Lázaro;Cliente habitual
+29/06/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Álvaro Jiménez;44;Galicia;Bizum;Nuria Domínguez;Devolución solicitada
+29/06/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Íñigo Ibáñez;45;Andalucía;Tarjeta de débito;Nuria Domínguez;Cliente habitual
+30/06/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Ángela Núñez;61;Galicia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+30/06/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Mónica Calderón;41;País Vasco;PayPal;Héctor Lázaro;Sin incidencias
+01/07/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Íñigo Ibáñez;45;Cataluña;PayPal;Sofía Ruiz;Sin incidencias
+01/07/2026;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Sonia Bermúdez;22;Andalucía;Transferencia bancaria;Nuria Domínguez;Envío urgente
+04/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Martín Gutiérrez;25;Cataluña;Bizum;Nuria Domínguez;Cliente habitual
+04/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Martín Gutiérrez;25;Cataluña;Tarjeta de crédito;Martín Ortega;Devolución solicitada
+05/07/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Celia Romero;31;Andalucía;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+05/07/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Begoña Güell;52;Aragón;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+05/07/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;Inés Cañete;56;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Devolución solicitada
+06/07/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Mónica Calderón;41;Cataluña;Bizum;Héctor Lázaro;Devolución solicitada
+06/07/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;4;24,50;98,00;11,00;54,00;Jesús Sáez;29;Andalucía;Efectivo;Martín Ortega;Descuento del 10 % aplicado
+06/07/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Andrés Velázquez;48;Cataluña;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+07/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Celia Romero;31;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+07/07/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;1.010,00;1.449,95;Celia Romero;31;Andalucía;Efectivo;Martín Ortega;Recogida en tienda (Logroño)
+08/07/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Andrés Velázquez;48;Andalucía;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+09/07/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Jesús Sáez;29;Cataluña;Tarjeta de débito;Martín Ortega;Recogida en tienda (Logroño)
+10/07/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Nerea Ordóñez;33;Galicia;PayPal;Nuria Domínguez;Sin incidencias
+10/07/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;José Muñoz;34;Comunidad de Madrid;Efectivo;Martín Ortega;Sin incidencias
+11/07/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;María Peña;27;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+11/07/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Agustín Pérez;67;Andalucía;Tarjeta de crédito;Sofía Ruiz;Descuento del 10 % aplicado
+14/07/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;José Muñoz;34;País Vasco;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+14/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Nerea Ordóñez;33;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+15/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Óscar Gómez;38;Andalucía;Transferencia bancaria;Héctor Lázaro;Recogida en tienda (Logroño)
+16/07/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Martín Gutiérrez;25;Cataluña;Bizum;Nuria Domínguez;Regalo: incluir tarjeta
+16/07/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Andrés Velázquez;48;Andalucía;PayPal;Héctor Lázaro;Sin incidencias
+17/07/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Mónica Calderón;41;Cataluña;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+21/07/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Begoña Güell;52;Andalucía;Bizum;Sofía Ruiz;Sin incidencias
+22/07/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Pilar Salcedo;72;Andalucía;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+22/07/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Nerea Ordóñez;33;Cataluña;Tarjeta de débito;Martín Ortega;Regalo: incluir tarjeta
+23/07/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+23/07/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;5;34,95;174,75;19,50;77,25;Nerea Ordóñez;33;Región de Murcia;Tarjeta de crédito;Héctor Lázaro;Pago en 2 plazos
+24/07/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Íñigo Ibáñez;45;Cataluña;Efectivo;Sofía Ruiz;Sin incidencias
+24/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Celia Romero;31;Cataluña;Tarjeta de débito;Héctor Lázaro;Descuento del 10 % aplicado
+24/07/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;María Peña;27;Aragón;Efectivo;Héctor Lázaro;Sin incidencias
+24/07/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Álvaro Jiménez;44;Andalucía;Tarjeta de débito;Sofía Ruiz;Envío urgente
+25/07/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Raúl Martín;23;Andalucía;Bizum;Sofía Ruiz;Sin incidencias
+25/07/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Íñigo Ibáñez;45;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Regalo: incluir tarjeta
+26/07/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Joaquín Ríos;36;Comunidad de Madrid;Bizum;Nuria Domínguez;Sin incidencias
+27/07/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Lucía Fernández;19;Aragón;Tarjeta de crédito;Nuria Domínguez;Cliente habitual
+27/07/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Íñigo Ibáñez;45;Aragón;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+27/07/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;4;129,99;519,96;80,00;199,96;Begoña Güell;52;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+28/07/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Begoña Güell;52;País Vasco;Tarjeta de débito;Héctor Lázaro;Recogida en tienda (Logroño)
+29/07/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Nerea Ordóñez;33;Cataluña;PayPal;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+29/07/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Andrés Velázquez;48;Castilla y León;Tarjeta de crédito;Sofía Ruiz;Descuento del 10 % aplicado
+30/07/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Nerea Ordóñez;33;Región de Murcia;PayPal;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+31/07/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Agustín Pérez;67;Andalucía;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+31/07/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Raúl Martín;23;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+01/08/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Begoña Güell;52;Cataluña;Transferencia bancaria;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+02/08/2026;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Nerea Ordóñez;33;Cataluña;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+04/08/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;98,00;153,00;Inés Cañete;56;Galicia;Transferencia bancaria;Nuria Domínguez;Pago en 2 plazos
+04/08/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+05/08/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Agustín Pérez;67;País Vasco;Tarjeta de débito;Sofía Ruiz;Envío urgente
+06/08/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Óscar Gómez;38;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+07/08/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;4;479,00;1.916,00;375,00;416,00;Inés Cañete;56;Cataluña;Bizum;Héctor Lázaro;Sin incidencias
+08/08/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Íñigo Ibáñez;45;Castilla y León;PayPal;Martín Ortega;Regalo: incluir tarjeta
+08/08/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Óscar Gómez;38;Galicia;PayPal;Martín Ortega;Sin incidencias
+09/08/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Joaquín Ríos;36;Andalucía;Bizum;Martín Ortega;Sin incidencias
+10/08/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Jesús Sáez;29;Galicia;PayPal;Sofía Ruiz;Envío urgente
+10/08/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Martín Gutiérrez;25;Cataluña;Tarjeta de crédito;Martín Ortega;Sin incidencias
+11/08/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Raúl Martín;23;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Devolución solicitada
+13/08/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Jesús Sáez;29;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+13/08/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Andrés Velázquez;48;Región de Murcia;PayPal;Nuria Domínguez;Cliente habitual
+14/08/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Sonia Bermúdez;22;Galicia;Tarjeta de débito;Héctor Lázaro;Descuento del 10 % aplicado
+15/08/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Mónica Calderón;41;Cataluña;PayPal;Sofía Ruiz;Devolución solicitada
+16/08/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;5;899,99;4.499,95;700,00;999,95;María Peña;27;Castilla y León;Efectivo;Martín Ortega;Sin incidencias
+16/08/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;Íñigo Ibáñez;45;Cataluña;Bizum;Martín Ortega;Envío urgente
+16/08/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Pilar Salcedo;72;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+17/08/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;2;89,00;178,00;47,00;84,00;María Peña;27;País Vasco;PayPal;Héctor Lázaro;Pago en 2 plazos
+18/08/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Begoña Güell;52;Castilla y León;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+21/08/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Begoña Güell;52;Andalucía;Bizum;Martín Ortega;Sin incidencias
+21/08/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Jesús Sáez;29;País Vasco;Tarjeta de débito;Martín Ortega;Regalo: incluir tarjeta
+21/08/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Ángela Núñez;61;Andalucía;Tarjeta de débito;Nuria Domínguez;Descuento del 10 % aplicado
+21/08/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Inés Cañete;56;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+22/08/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;Begoña Güell;52;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+22/08/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Inés Cañete;56;Región de Murcia;PayPal;Nuria Domínguez;Sin incidencias
+22/08/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Jesús Sáez;29;Andalucía;Efectivo;Héctor Lázaro;Regalo: incluir tarjeta
+23/08/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;Óscar Gómez;38;Castilla y León;PayPal;Martín Ortega;Descuento del 10 % aplicado
+23/08/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Begoña Güell;52;Galicia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+23/08/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;1.010,00;1.449,95;Jesús Sáez;29;Castilla y León;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+25/08/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Joaquín Ríos;36;Andalucía;Bizum;Sofía Ruiz;Sin incidencias
+26/08/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;5;479,00;2.395,00;375,00;520,00;José Muñoz;34;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+27/08/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Íñigo Ibáñez;45;Comunidad de Madrid;Efectivo;Sofía Ruiz;Sin incidencias
+28/08/2026;PROD005;Libro «Cien años de soledad»;Libros;4;15,99;63,96;10,00;23,96;Begoña Güell;52;Comunidad de Madrid;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+29/08/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Raúl Martín;23;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Pago en 2 plazos
+30/08/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Lucía Fernández;19;Galicia;Tarjeta de débito;Héctor Lázaro;Descuento del 10 % aplicado
+01/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Raúl Martín;23;Cataluña;Bizum;Nuria Domínguez;Devolución solicitada
+02/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Íñigo Ibáñez;45;País Vasco;Tarjeta de débito;Martín Ortega;Sin incidencias
+03/09/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Ángela Núñez;61;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+04/09/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Nerea Ordóñez;33;Cataluña;Tarjeta de débito;Sofía Ruiz;Recogida en tienda (Logroño)
+05/09/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;María Peña;27;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Envío urgente
+05/09/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Nerea Ordóñez;33;País Vasco;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+05/09/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Agustín Pérez;67;Comunidad de Madrid;Transferencia bancaria;Martín Ortega;Sin incidencias
+05/09/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Andrés Velázquez;48;Aragón;Efectivo;Nuria Domínguez;Pago en 2 plazos
+05/09/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Lucía Fernández;19;Comunidad de Madrid;Bizum;Martín Ortega;Cliente habitual
+06/09/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Pilar Salcedo;72;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+07/09/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Agustín Pérez;67;Aragón;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+07/09/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Celia Romero;31;Andalucía;Efectivo;Héctor Lázaro;Sin incidencias
+07/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Agustín Pérez;67;Aragón;Tarjeta de débito;Martín Ortega;Sin incidencias
+07/09/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Lucía Fernández;19;Andalucía;Transferencia bancaria;Martín Ortega;Sin incidencias
+08/09/2026;PROD001;Portátil Dell XPS 13;Electrónica;4;1.299,99;5.199,96;1.010,00;1.159,96;Sonia Bermúdez;22;Andalucía;Tarjeta de crédito;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+08/09/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Óscar Gómez;38;Comunidad de Madrid;Transferencia bancaria;Sofía Ruiz;Devolución solicitada
+08/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Ángela Núñez;61;Aragón;Efectivo;Nuria Domínguez;Sin incidencias
+09/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Jesús Sáez;29;Cataluña;Tarjeta de débito;Martín Ortega;Envío urgente
+09/09/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;1.010,00;579,98;Agustín Pérez;67;Comunidad de Madrid;Bizum;Martín Ortega;Sin incidencias
+09/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Begoña Güell;52;Galicia;Efectivo;Héctor Lázaro;Sin incidencias
+09/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Martín Gutiérrez;25;Comunidad de Madrid;Bizum;Héctor Lázaro;Sin incidencias
+09/09/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Nerea Ordóñez;33;Región de Murcia;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+10/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Ángela Núñez;61;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+11/09/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;3;79,99;239,97;50,00;89,97;Inés Cañete;56;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+12/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Agustín Pérez;67;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Sin incidencias
+12/09/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Martín Gutiérrez;25;Galicia;Tarjeta de débito;Héctor Lázaro;Envío urgente
+13/09/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Íñigo Ibáñez;45;País Vasco;Tarjeta de débito;Martín Ortega;Sin incidencias
+14/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Nerea Ordóñez;33;Andalucía;PayPal;Héctor Lázaro;Sin incidencias
+14/09/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Íñigo Ibáñez;45;Aragón;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+15/09/2026;PROD001;Portátil Dell XPS 13;Electrónica;1;1.299,99;1.299,99;1.010,00;289,99;Agustín Pérez;67;Galicia;Tarjeta de crédito;Sofía Ruiz;Recogida en tienda (Logroño)
+16/09/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Celia Romero;31;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Devolución solicitada
+16/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;3;899,99;2.699,97;700,00;599,97;Begoña Güell;52;Comunidad de Madrid;Transferencia bancaria;Héctor Lázaro;Sin incidencias
+16/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Begoña Güell;52;Andalucía;Bizum;Nuria Domínguez;Descuento del 10 % aplicado
+16/09/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;José Muñoz;34;Cataluña;Bizum;Martín Ortega;Sin incidencias
+19/09/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Agustín Pérez;67;Comunidad de Madrid;Bizum;Sofía Ruiz;Sin incidencias
+19/09/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;2;24,50;49,00;11,00;27,00;Álvaro Jiménez;44;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Devolución solicitada
+20/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;98,00;102,00;María Peña;27;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+20/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Mónica Calderón;41;País Vasco;Bizum;Sofía Ruiz;Pago en 2 plazos
+21/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;5;199,90;999,50;128,00;359,50;Inés Cañete;56;Cataluña;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+21/09/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;10,00;17,97;Lucía Fernández;19;Castilla y León;Bizum;Nuria Domínguez;Devolución solicitada
+21/09/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;José Muñoz;34;Andalucía;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+22/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Mónica Calderón;41;Andalucía;Tarjeta de crédito;Nuria Domínguez;Cliente habitual
+23/09/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Álvaro Jiménez;44;Cataluña;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+24/09/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;5;34,95;174,75;19,50;77,25;María Peña;27;Andalucía;Tarjeta de débito;Sofía Ruiz;Descuento del 10 % aplicado
+24/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Begoña Güell;52;Galicia;Tarjeta de crédito;Nuria Domínguez;Devolución solicitada
+24/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Sonia Bermúdez;22;Cataluña;Tarjeta de crédito;Héctor Lázaro;Recogida en tienda (Logroño)
+25/09/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Sonia Bermúdez;22;Galicia;Tarjeta de crédito;Martín Ortega;Sin incidencias
+26/09/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Martín Gutiérrez;25;Aragón;Bizum;Sofía Ruiz;Sin incidencias
+27/09/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Raúl Martín;23;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+28/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Joaquín Ríos;36;Comunidad de Madrid;Bizum;Nuria Domínguez;Sin incidencias
+29/09/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Inés Cañete;56;Castilla y León;Tarjeta de crédito;Héctor Lázaro;Sin incidencias
+29/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Sonia Bermúdez;22;Galicia;PayPal;Martín Ortega;Sin incidencias
+30/09/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Joaquín Ríos;36;Cataluña;Efectivo;Nuria Domínguez;Sin incidencias
+30/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Celia Romero;31;Castilla y León;Tarjeta de crédito;Sofía Ruiz;Devolución solicitada
+30/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Sonia Bermúdez;22;Galicia;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+30/09/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Martín Gutiérrez;25;Comunidad de Madrid;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+01/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;2;129,99;259,98;80,00;99,98;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de crédito;Martín Ortega;Sin incidencias
+01/10/2026;PROD010;Novela «La sombra del viento»;Libros;3;21,90;65,70;13,00;26,70;Joaquín Ríos;36;Cataluña;Tarjeta de débito;Sofía Ruiz;Devolución solicitada
+01/10/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Mónica Calderón;41;Andalucía;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+02/10/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;5;479,00;2.395,00;375,00;520,00;María Peña;27;País Vasco;Tarjeta de crédito;Héctor Lázaro;Recogida en tienda (Logroño)
+02/10/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Martín Gutiérrez;25;Región de Murcia;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+03/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;128,00;215,70;Óscar Gómez;38;Comunidad de Madrid;Bizum;Martín Ortega;Pago en 2 plazos
+04/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Álvaro Jiménez;44;Galicia;Bizum;Sofía Ruiz;Sin incidencias
+04/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Nerea Ordóñez;33;Castilla y León;Transferencia bancaria;Nuria Domínguez;Sin incidencias
+05/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Raúl Martín;23;Andalucía;Bizum;Héctor Lázaro;Recogida en tienda (Logroño)
+06/10/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;2;34,95;69,90;19,50;30,90;Mónica Calderón;41;País Vasco;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+06/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Celia Romero;31;Comunidad de Madrid;Tarjeta de crédito;Sofía Ruiz;Sin incidencias
+06/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Andrés Velázquez;48;Comunidad de Madrid;Bizum;Sofía Ruiz;Sin incidencias
+06/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Agustín Pérez;67;Galicia;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+07/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Lucía Fernández;19;País Vasco;Tarjeta de crédito;Sofía Ruiz;Devolución solicitada
+07/10/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;María Peña;27;País Vasco;Bizum;Martín Ortega;Pago en 2 plazos
+07/10/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;4;34,95;139,80;19,50;61,80;Raúl Martín;23;País Vasco;Bizum;Nuria Domínguez;Devolución solicitada
+07/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Raúl Martín;23;Castilla y León;Bizum;Martín Ortega;Sin incidencias
+08/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Andrés Velázquez;48;Galicia;Tarjeta de débito;Sofía Ruiz;Envío urgente
+09/10/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Íñigo Ibáñez;45;Comunidad de Madrid;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+10/10/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Pilar Salcedo;72;Cataluña;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+10/10/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;Álvaro Jiménez;44;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+10/10/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;1;89,00;89,00;47,00;42,00;Jesús Sáez;29;Aragón;PayPal;Martín Ortega;Sin incidencias
+11/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Lucía Fernández;19;Región de Murcia;Tarjeta de crédito;Nuria Domínguez;Sin incidencias
+11/10/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;4;34,95;139,80;19,50;61,80;Andrés Velázquez;48;Galicia;PayPal;Martín Ortega;Sin incidencias
+11/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Raúl Martín;23;Cataluña;PayPal;Héctor Lázaro;Sin incidencias
+12/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Álvaro Jiménez;44;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Descuento del 10 % aplicado
+12/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Inés Cañete;56;Cataluña;Efectivo;Sofía Ruiz;Envío urgente
+12/10/2026;PROD001;Portátil Dell XPS 13;Electrónica;4;1.299,99;5.199,96;1.010,00;1.159,96;Inés Cañete;56;Cataluña;Bizum;Martín Ortega;Pago en 2 plazos
+13/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Martín Gutiérrez;25;Cataluña;Tarjeta de débito;Sofía Ruiz;Revisar dirección (calle Peñalara, nº 3)
+13/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+13/10/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;1;149,00;149,00;98,00;51,00;Joaquín Ríos;36;Comunidad de Madrid;Tarjeta de crédito;Héctor Lázaro;Revisar dirección (calle Peñalara, nº 3)
+13/10/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;Sonia Bermúdez;22;Aragón;Bizum;Héctor Lázaro;Cliente habitual
+13/10/2026;PROD010;Novela «La sombra del viento»;Libros;4;21,90;87,60;13,00;35,60;Pilar Salcedo;72;Región de Murcia;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+14/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;2;899,99;1.799,98;700,00;399,98;Jesús Sáez;29;Galicia;Tarjeta de débito;Sofía Ruiz;Cliente habitual
+15/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;5;129,99;649,95;80,00;249,95;Ángela Núñez;61;Aragón;PayPal;Sofía Ruiz;Pago en 2 plazos
+15/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;10,00;5,99;Celia Romero;31;Castilla y León;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+15/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Celia Romero;31;Comunidad de Madrid;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+15/10/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;1;34,95;34,95;19,50;15,45;Jesús Sáez;29;Cataluña;PayPal;Nuria Domínguez;Sin incidencias
+17/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;128,00;143,80;Inés Cañete;56;Andalucía;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+19/10/2026;PROD009;Tostadora Taurus Inox;Electrodomésticos;3;34,95;104,85;19,50;46,35;Andrés Velázquez;48;Cataluña;Tarjeta de crédito;Héctor Lázaro;Regalo: incluir tarjeta
+19/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;3;129,99;389,97;80,00;149,97;Joaquín Ríos;36;Andalucía;Efectivo;Sofía Ruiz;Regalo: incluir tarjeta
+20/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;700,00;799,96;Óscar Gómez;38;Andalucía;Efectivo;Héctor Lázaro;Pago en 2 plazos
+20/10/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Martín Gutiérrez;25;País Vasco;Tarjeta de crédito;Sofía Ruiz;Cliente habitual
+20/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;2;79,99;159,98;50,00;59,98;Martín Gutiérrez;25;Cataluña;Tarjeta de crédito;Martín Ortega;Sin incidencias
+21/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Raúl Martín;23;Andalucía;PayPal;Martín Ortega;Revisar dirección (calle Peñalara, nº 3)
+22/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;80,00;49,99;Begoña Güell;52;Cataluña;Tarjeta de crédito;Martín Ortega;Descuento del 10 % aplicado
+23/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Lucía Fernández;19;Castilla y León;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+23/10/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;1;479,00;479,00;375,00;104,00;José Muñoz;34;Andalucía;Tarjeta de débito;Martín Ortega;Sin incidencias
+23/10/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Martín Gutiérrez;25;Galicia;Tarjeta de crédito;Sofía Ruiz;Cliente habitual
+24/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;María Peña;27;Castilla y León;Efectivo;Martín Ortega;Sin incidencias
+25/10/2026;PROD011;Chaqueta impermeable montaña;Ropa y calzado;3;89,00;267,00;47,00;126,00;Nerea Ordóñez;33;Galicia;PayPal;Nuria Domínguez;Sin incidencias
+26/10/2026;PROD007;Camiseta algodón ecológico;Ropa y calzado;1;24,50;24,50;11,00;13,50;Agustín Pérez;67;Comunidad de Madrid;PayPal;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+27/10/2026;PROD010;Novela «La sombra del viento»;Libros;2;21,90;43,80;13,00;17,80;Nerea Ordóñez;33;Andalucía;Bizum;Héctor Lázaro;Sin incidencias
+27/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;1;199,90;199,90;128,00;71,90;Andrés Velázquez;48;Cataluña;Tarjeta de débito;Héctor Lázaro;Sin incidencias
+28/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;700,00;799,96;Óscar Gómez;38;Cataluña;Tarjeta de crédito;Martín Ortega;Sin incidencias
+28/10/2026;PROD010;Novela «La sombra del viento»;Libros;1;21,90;21,90;13,00;8,90;Mónica Calderón;41;Aragón;PayPal;Martín Ortega;Pago en 2 plazos
+30/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;50,00;29,99;Inés Cañete;56;Comunidad de Madrid;Bizum;Nuria Domínguez;Sin incidencias
+30/10/2026;PROD005;Libro «Cien años de soledad»;Libros;2;15,99;31,98;10,00;11,98;Begoña Güell;52;País Vasco;Bizum;Nuria Domínguez;Recogida en tienda (Logroño)
+31/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;700,00;199,99;Mónica Calderón;41;Cataluña;Tarjeta de débito;Nuria Domínguez;Sin incidencias
+31/10/2026;PROD012;Tableta Apple iPad 10ª generación;Electrónica;2;479,00;958,00;375,00;208,00;Martín Gutiérrez;25;Andalucía;Tarjeta de crédito;Nuria Domínguez;Envío urgente

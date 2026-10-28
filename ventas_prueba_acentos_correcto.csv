@@ -1,0 +1,31 @@
+﻿Fecha de Venta;ID Producto;Nombre del Producto;Categoría;Cantidad;Precio Unitario (€);Total (€);Cliente;Región;Método de Pago;Vendedor;Observaciones
+01/09/2026;PROD005;Libro «Cien años de soledad»;Libros;3;15,99;47,97;Óscar Gómez;Región de Murcia;Bizum;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+01/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;5;149,00;745,00;Begoña Güell;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Regalo: incluir tarjeta
+01/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;5;129,99;649,95;Agustín Pérez;Región de Murcia;Tarjeta de débito;Nuria Domínguez;Envío urgente
+02/09/2026;PROD001;Portátil Dell XPS 13;Electrónica;2;1.299,99;2.599,98;Raúl Martín;Comunidad de Madrid;Tarjeta de débito;Nuria Domínguez;Cliente habitual
+02/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;4;199,90;799,60;Agustín Pérez;Región de Murcia;Efectivo;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+03/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;María Peña;Región de Murcia;PayPal;Martín Ortega;Descuento del 10 % aplicado
+04/09/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;Mónica Calderón;Andalucía;Bizum;Nuria Domínguez;Sin incidencias
+06/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;Lucía Fernández;Andalucía;Tarjeta de débito;Martín Ortega;Devolución solicitada
+06/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;Begoña Güell;Cataluña;Tarjeta de crédito;Martín Ortega;Devolución solicitada
+08/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;3;149,00;447,00;Begoña Güell;Aragón;Bizum;Martín Ortega;Descuento del 10 % aplicado
+10/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;149,00;596,00;María Peña;Comunidad de Madrid;Tarjeta de débito;Martín Ortega;Devolución solicitada
+11/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;1;129,99;129,99;María Peña;Andalucía;Bizum;Sofía Ruiz;Cliente habitual
+11/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;2;199,90;399,80;Lucía Fernández;Andalucía;Transferencia bancaria;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+13/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;María Peña;Aragón;Efectivo;Nuria Domínguez;Envío urgente
+13/09/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;1;899,99;899,99;Lucía Fernández;Castilla y León;Transferencia bancaria;Nuria Domínguez;Revisar dirección (calle Peñalara, nº 3)
+20/09/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;5;129,99;649,95;Lucía Fernández;Comunidad de Madrid;Transferencia bancaria;Martín Ortega;Sin incidencias
+20/09/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;2;149,00;298,00;Begoña Güell;Comunidad de Madrid;PayPal;Sofía Ruiz;Pago en 2 plazos
+24/09/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;3;199,90;599,70;José Muñoz;País Vasco;Transferencia bancaria;Martín Ortega;Pago en 2 plazos
+27/09/2026;PROD005;Libro «Cien años de soledad»;Libros;5;15,99;79,95;María Peña;Cataluña;Efectivo;Sofía Ruiz;Cliente habitual
+03/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;1;79,99;79,99;Óscar Gómez;Aragón;Tarjeta de débito;Sofía Ruiz;Sin incidencias
+07/10/2026;PROD001;Portátil Dell XPS 13;Electrónica;5;1.299,99;6.499,95;Agustín Pérez;Comunidad de Madrid;Efectivo;Martín Ortega;Descuento del 10 % aplicado
+12/10/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;5;149,00;745,00;María Peña;Aragón;Transferencia bancaria;Martín Ortega;Descuento del 10 % aplicado
+13/10/2026;PROD004;Licuadora Oster Clásica;Electrodomésticos;4;79,99;319,96;María Peña;Castilla y León;Transferencia bancaria;Martín Ortega;Regalo: incluir tarjeta
+15/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;María Peña;Castilla y León;Tarjeta de débito;Sofía Ruiz;Envío urgente
+21/10/2026;PROD001;Portátil Dell XPS 13;Electrónica;3;1.299,99;3.899,97;Raúl Martín;Comunidad de Madrid;PayPal;Martín Ortega;Envío urgente
+21/10/2026;PROD002;Teléfono Samsung Galaxy S21;Electrónica;4;899,99;3.599,96;José Muñoz;Cataluña;Tarjeta de crédito;Sofía Ruiz;Descuento del 10 % aplicado
+23/10/2026;PROD005;Libro «Cien años de soledad»;Libros;1;15,99;15,99;Agustín Pérez;Región de Murcia;Tarjeta de débito;Martín Ortega;Pago en 2 plazos
+26/10/2026;PROD008;Auriculares inalámbricos Sony;Electrónica;5;199,90;999,50;María Peña;Aragón;Efectivo;Martín Ortega;Cliente habitual
+26/10/2026;PROD006;Cafetera de cápsulas Nespresso;Electrodomésticos;4;149,00;596,00;Ángela Núñez;Aragón;Tarjeta de débito;Sofía Ruiz;Pago en 2 plazos
+28/10/2026;PROD003;Zapatillas Nike Air Máx;Ropa y calzado;4;129,99;519,96;Óscar Gómez;Región de Murcia;PayPal;Martín Ortega;Pago en 2 plazos
